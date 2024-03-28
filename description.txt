@@ -1,0 +1,7 @@
+langchain
+PromptTemplate
+llamma models using CTransformers
+Blog generation
+Content Creation
+
+# No streamlit used, ie NO web Application created

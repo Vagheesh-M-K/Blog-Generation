@@ -1,0 +1,8 @@
+langchain
+langchain_community
+langchain_openai
+streamlit
+sentence-transformers
+uvicorn
+ctransformers
+python-box
